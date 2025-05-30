@@ -91,7 +91,7 @@ export default function Home() {
                     size="m"
                   />
                 )}
-                {" Project's "}
+                {" Project's"}
 
               </Flex>
             </Button>
